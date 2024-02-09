@@ -1,0 +1,14 @@
+127.0.0.1 - - [10/Feb/2024:02:17:36 +0900] "GET / HTTP/1.1" 404 807
+0:0:0:0:0:0:0:1 - - [10/Feb/2024:02:19:23 +0900] "GET /WebProjectMVCBoard/login.jsp HTTP/1.1" 200 1130
+0:0:0:0:0:0:0:1 - - [10/Feb/2024:02:19:23 +0900] "GET /WebProjectMVCBoard/login.jsp HTTP/1.1" 200 1130
+0:0:0:0:0:0:0:1 - - [10/Feb/2024:02:20:20 +0900] "GET /WebProjectMVCBoard/login.jsp HTTP/1.1" 200 1130
+0:0:0:0:0:0:0:1 - - [10/Feb/2024:02:20:42 +0900] "GET /WebProjectMVCBoard/login.jsp HTTP/1.1" 200 1130
+0:0:0:0:0:0:0:1 - - [10/Feb/2024:02:20:42 +0900] "GET /favicon.ico HTTP/1.1" 404 818
+0:0:0:0:0:0:0:1 - - [10/Feb/2024:02:20:50 +0900] "POST /WebProjectMVCBoard/Controller?command=board_login HTTP/1.1" 200 123
+0:0:0:0:0:0:0:1 - - [10/Feb/2024:02:20:50 +0900] "POST /WebProjectMVCBoard/Controller?command=board_login HTTP/1.1" 200 123
+0:0:0:0:0:0:0:1 - - [10/Feb/2024:02:20:52 +0900] "GET /WebProjectMVCBoard/Controller?command=board_list HTTP/1.1" 200 4875
+0:0:0:0:0:0:0:1 - - [10/Feb/2024:02:20:52 +0900] "GET /WebProjectMVCBoard/js/jquery-3.7.1.min.js HTTP/1.1" 200 87533
+0:0:0:0:0:0:0:1 - - [10/Feb/2024:02:20:53 +0900] "GET /WebProjectMVCBoard/Controller?command=board_detail&bno= HTTP/1.1" 500 1494
+0:0:0:0:0:0:0:1 - - [10/Feb/2024:02:20:58 +0900] "GET /WebProjectMVCBoard/Controller?command=board_logout HTTP/1.1" 200 1130
+0:0:0:0:0:0:0:1 - - [10/Feb/2024:02:21:00 +0900] "GET /WebProjectMVCBoard/Controller?command=board_detail&bno=100 HTTP/1.1" 200 2139
+0:0:0:0:0:0:0:1 - - [10/Feb/2024:02:21:04 +0900] "GET /WebProjectMVCBoard/Controller?command=board_list&page=5 HTTP/1.1" 200 4828
